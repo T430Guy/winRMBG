@@ -1,0 +1,30 @@
+# ----- Python Virtual Environment -----
+venv/
+env/
+ENV/
+
+# ----- Python Cache -----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ----- Build / Distribution -----
+build/
+dist/
+*.egg-info/
+*.egg
+
+# ----- Environment Variables -----
+.env
+
+# ----- Logs -----
+*.log
+
+# ----- IDE / Editor Settings -----
+.vscode/
+.idea/
+
+# ----- OS Files -----
+.DS_Store
+Thumbs.db
